@@ -1,0 +1,35 @@
+.ult-tag {
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Animales Fantastic";
+  margin-top: 3px;
+  font-weight: 600;
+  mix-blend-mode: normal;
+}
+.mbl-only{
+  display: none !important;
+}
+.contactus_contactusWrapper__FfJun{
+  width: 100%;
+}.team_teamSection__0W7nM{
+  width: 100%;
+}
+
+.data-flex{
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    color: #c9ab84;
+    position: absolute;
+}
+@media (max-width:768px) {
+  .desk-only{
+    display: none !important;
+  }
+  .mbl-only{
+    display: block !important;
+  }
+}
